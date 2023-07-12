@@ -1,4 +1,4 @@
-# Binary-Counter
+# Binary-Counter-Simulation-using-OpenGL
 The binary counter simulation employs computer graphics OpenGL tools to visually display binary digits for 
 numbers 0 to 15. Users can initiate the counting process by pressing 's', reset the counter with 'z', 
 and reverse the binary digits using 'r'. Through this simulation, users gain hands-on experience with 
